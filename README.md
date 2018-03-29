@@ -15,8 +15,9 @@ All of this could have been avoided by hiring human workers instead of automatin
  
  5. Start and Select bakery products  and only press 1 or 2 (you actually have like 6 in the bag)
  6. Place into the bagging area, there should be no warning and checkout will believe that you have only paid for 2 croissants when in fact you have taken 5.
- 7. keep your receipt and leave. 
- 8. Share the croissants and be happy.
+ 7. If anything goes wrong, don't worry just say that made a mistake
+ 8. keep your receipt and leave. 
+ 9. Share the croissants and be happy.
 
 # Disclaimer
 
